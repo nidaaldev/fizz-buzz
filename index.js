@@ -1,4 +1,4 @@
-// Fizz buzz - 100 Números
+// Fizz buzz - 100 Numbers
 
 // 3 6 9 12... Fizz
 // 5 10 15... Buzz
