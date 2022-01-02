@@ -1,4 +1,4 @@
-// Fizz buzz - 100 Numbers
+// Fizz buzz - 100 Números
 
 // 3 6 9 12... Fizz
 // 5 10 15... Buzz
@@ -7,7 +7,8 @@
 for (let i = 0; i <= 100; i++) {
 
     if (i % 15 === 0) {
-        console.log(`FizzBuzz! ${i}`)    
+        console.log(`FizzBuzz! ${i}`);
+        continue;
     } else if (i % 3 === 0) {
         console.log(`Fizz ${i}`)
         continue;
